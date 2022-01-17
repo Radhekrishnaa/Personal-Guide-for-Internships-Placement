@@ -12,5 +12,5 @@ __For the long and clear answer, Continue Reading -__
 
 
 # Disclaimer - 
-All views are my own, my observations, and experiences, and the things i learnt from talking ,reading ,listenings other people's stories
+All views are my own, my observations, and experiences, and the things i learnt from talking ,reading and listenings other people's stories
 
