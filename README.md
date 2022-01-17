@@ -4,4 +4,8 @@ My personal guide-roadmap repository for internships and placements.
 
 # INTRODUCTION :
 
-How to get interview calls and referrals(it's for offcampus) ?
+How to get interview calls and referrals(it's for offcampus)?
+
+Answer:- The short answer - Referrals, An updated and active Linkedin Profile, A Green Github Profile, A decent Resume.
+
+
