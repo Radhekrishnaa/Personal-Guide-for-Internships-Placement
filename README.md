@@ -18,7 +18,7 @@ This are the content covered in this repository:
 
 - General Offcampus Application Process
 - Where to ask for Referrals?
-3.How not to ask for Referrals?
+- How not to ask for Referrals?
 4.How to ask for Referrals?
 5.Tips for LinkedIn Profile
 6.Tips for Resume
