@@ -22,5 +22,5 @@ This are the content covered in this repository:
 - How to ask for Referrals?
 - Tips for LinkedIn Profile
 - Tips for Resume
-The Final Strategy and The List of 50 Companies
+- The Final Strategy and The List of 50 Companies
 
