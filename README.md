@@ -10,8 +10,7 @@ Answer:- The short answer - Referrals, An updated and active Linkedin Profile, A
 
 __For the long and clear answer, Continue Reading -__
 
-
-# Disclaimer - 
+## Disclaimer - 
 All views are my own, my observations, and experiences, and the things i learnt from talking ,reading and listening other people's stories and advices.
 
 This are the content covered in this repository:
@@ -23,4 +22,7 @@ This are the content covered in this repository:
 - Tips for LinkedIn Profile
 - Tips for Resume
 - The Final Strategy and The List of 50 Companies
+
+General Offcampus Application Process -
+
 
