@@ -19,8 +19,8 @@ This are the content covered in this repository:
 - General Offcampus Application Process
 - Where to ask for Referrals?
 - How not to ask for Referrals?
-4.How to ask for Referrals?
-5.Tips for LinkedIn Profile
-6.Tips for Resume
-7.The Final Strategy and The List of 50 Companies
+How to ask for Referrals?
+Tips for LinkedIn Profile
+Tips for Resume
+The Final Strategy and The List of 50 Companies
 
