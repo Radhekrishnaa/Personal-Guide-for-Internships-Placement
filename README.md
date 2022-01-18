@@ -14,5 +14,5 @@ __For the long and clear answer, Continue Reading -__
 # Disclaimer - 
 All views are my own, my observations, and experiences, and the things i learnt from talking ,reading and listening other people's stories and advices.
 
-This is what I am gonna cover in this 
+This are the content covered in this repository:
 
