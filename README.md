@@ -23,6 +23,6 @@ This are the content covered in this repository:
 - Tips for Resume
 - The Final Strategy and The List of 50 Companies
 
-General Offcampus Application Process -
+## 1.General Offcampus Application Process -
 
 
