@@ -25,4 +25,6 @@ This are the content covered in this repository:
 
 ## 1.General Offcampus Application Process -
 
+Almost every company has a careers page. You can find it by just googling ``` CompanyName Careers. ```
+
 
