@@ -25,6 +25,6 @@ This are the content covered in this repository:
 
 ## 1.General Offcampus Application Process -
 
-Almost every company has a careers page. You can find it by just googling ``` CompanyName Careers. ```
+Almost every company has a careers page. You can find it by just googling ``` CompanyName Careers. ``` They usually post their openings here. And applicants apply for these openings through the respective careers site. The Recruiters see these applications and shortlist the resumes/profiles that they like and then those candidates are called for interviews.
 
 
