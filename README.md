@@ -27,6 +27,6 @@ This are the content covered in this repository:
 
 Almost every company has a careers page. You can find it by just googling ``` CompanyName Careers. ``` They usually post their openings here. And applicants apply for these openings through the respective careers site. The Recruiters see these applications and shortlist the resumes/profiles that they like and then those candidates are called for interviews.
 
-But Wait, Do you think that the Recruiters would be going through thousands and thousands of resumes to shortlist submitted directly through the careers portal? Maybe Not!
+But Wait, Do you think that the Recruiters would be going through thousands and thousands of resumes to shortlist submitted directly through the careers portal? *** Maybe Not! ***
 
 
