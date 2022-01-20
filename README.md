@@ -31,4 +31,5 @@ But Wait, Do you think that the Recruiters would be going through thousands and 
 
 Now there are 2 things added in the scenario -
 1. ****ATS(Applicant Tracking Software) Filtering -**** This is used to automatically filter Resumes. Heard the term ATS-friendly Resumes?
+2. **Referrals -** The people working at the company currently can refer their connections whom they believe would be a great fit for the role. The referred applications are treated as priority applications and those applications are most probably reviewed.
 
