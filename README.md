@@ -30,4 +30,5 @@ Almost every company has a careers page. You can find it by just googling ``` Co
 But Wait, Do you think that the Recruiters would be going through thousands and thousands of resumes to shortlist submitted directly through the careers portal? ***Maybe Not!***
 
 Now there are 2 things added in the scenario -
+ATS(Applicant Tracking Software) Filtering - This is used to automatically filter Resumes. Heard the term ATS-friendly Resumes?
 
