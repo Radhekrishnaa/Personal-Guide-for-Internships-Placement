@@ -30,7 +30,7 @@ Almost every company has a careers page. You can find it by just googling ``` Co
 But Wait, Do you think that the Recruiters would be going through thousands and thousands of resumes to shortlist submitted directly through the careers portal? ***Maybe Not!***
 
 Now there are 2 things added in the scenario -
-1. ****ATS(Applicant Tracking Software) Filtering -** This is used to automatically filter Resumes. Heard the term ATS-friendly Resumes?
+1. **ATS(Applicant Tracking Software) Filtering -** This is used to automatically filter Resumes. Heard the term ATS-friendly Resumes?
 2. **Referrals -** The people working at the company currently can refer their connections whom they believe would be a great fit for the role. The referred applications are treated as priority applications and those applications are most probably reviewed.\
 Both the above things increase your chances of getting shortlisted for the next rounds.\
 ***Tip -*** If you are looking for internships/jobs in startups, head on to [Angel.co](https://angel.co/)\
