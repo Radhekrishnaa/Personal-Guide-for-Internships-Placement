@@ -39,4 +39,4 @@ Both the above things increase your chances of getting shortlisted for the next 
 ## 2.Where to ask for Referrals?\
 1. Linkedin
 2. Twitter
-3. College
+3. College Seniors
