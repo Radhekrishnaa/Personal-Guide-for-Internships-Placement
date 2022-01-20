@@ -36,4 +36,5 @@ Both the above things increase your chances of getting shortlisted for the next 
 
 ***Tip -*** If you are looking for internships/jobs in startups, head on to [Angel.co](https://angel.co/)\
 
-## 2.Where to ask for Referrals?
+## 2.Where to ask for Referrals?\
+1. Linkedin
