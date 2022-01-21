@@ -41,4 +41,4 @@ Both the above things increase your chances of getting shortlisted for the next 
 2. Twitter
 3. College Seniors
 4. Relatives/bhaiyaa\
-Search the people working in XYZ company and text them to ask for refer your profile in their company.
+Search the people working in XYZ company and text them to ask for refer your profile in their company.\
