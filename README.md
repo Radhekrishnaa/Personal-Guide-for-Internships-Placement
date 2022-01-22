@@ -55,4 +55,5 @@ Few important things to know -
 2. Send the Job Id/Job Link - It's not the responsibility of a Software Engineer to find the right job for you. Please don't expect them to search a relevant job for your profile.
 3. Don't forget to attach your Resume
 4. Don't text XYZ company employees for referral in ABC company 😬
-5. Be respectful and polite. - Respect the time of the other person.
+5. Be respectful and polite. - Respect the time of the other person.\
+So, The deal is - Not all employees are active on Linkedin and those who are active again might be getting hundreds of messages from so many people. So, you gotta catch their attention with your message and skills :p
