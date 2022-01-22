@@ -54,4 +54,4 @@ Few important things to know -
 1. Don't use the WhatsApp ways 😬 - u, plz, hlp, ur, hlw.
 2. Send the Job Id/Job Link - It's not the responsibility of a Software Engineer to find the right job for you. Please don't expect them to search a relevant job for your profile.
 3. Don't forget to attach your Resume
-4. 
+4. Don't text XYZ company employees for referral in ABC company 😬
