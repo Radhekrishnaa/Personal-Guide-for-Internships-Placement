@@ -51,4 +51,5 @@ Can u help me for search job?
 ```
 ***How to ask for Referrals?*** \
 Few important things to know -
-1. Don't use the WhatsApp ways 😬 - u, plz, hlp, ur, hlw
+1. Don't use the WhatsApp ways 😬 - u, plz, hlp, ur, hlw.
+2. Send the Job Id/Job Link -
