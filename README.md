@@ -60,6 +60,6 @@ So, The deal is - Not all employees are active on Linkedin and those who are act
 Tips to write just the right message -
 - Include your graduation year/YOE whichever is applicable.
 - A little about your skills/expertise area.
-Mention your previous internships/experiences/projects.
+- Mention your previous internships/experiences/projects.
 And of course, the Job Id for which you want a referral.
 Not too long to read, Not too short like the ones in the above section
