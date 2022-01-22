@@ -57,3 +57,4 @@ Few important things to know -
 4. Don't text XYZ company employees for referral in ABC company 😬
 5. Be respectful and polite. - Respect the time of the other person.\
 So, The deal is - Not all employees are active on Linkedin and those who are active again might be getting hundreds of messages from so many people. So, you gotta catch their attention with your message and skills :p
+Tips to write just the right message -
