@@ -50,5 +50,5 @@ Hi Sir, I came to know that --- is hiring, can you refer me there?`
 Can u help me for search job?
 ```
 ***How to ask for Referrals?*** \
-Few important things to know -\
+Few important things to know -
 1. Don't use the WhatsApp ways 😬 - u, plz, hlp, ur, hlw
