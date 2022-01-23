@@ -62,6 +62,6 @@ Tips to write just the right message -
 - A little about your skills/expertise area.
 - Mention your previous internships/experiences/projects.
 - And of course, the Job Id for which you want a referral.
-- Not too long to read, Not too short like the ones in the above section
-I am attaching a couple of examples to give you a better idea - \
+- Not too long to read, Not too short like the ones in the above section.\
+I am attaching a couple of examples to give you a better idea -\
 
