@@ -65,6 +65,7 @@ Tips to write just the right message -
 - Not too long to read, Not too short like the ones in the above section.\
 I am attaching a couple of examples to give you a better idea -
 
-Hi, I am Manvi Tyagi. I am looking for full-time job opportunities as an SDE-1 for the year 2023.\
+```Hi, I am Radhekrishna Mishra. I am looking for full-time job opportunities as an SDE-1 for the year 2023.\
 I have hands-on experience in development and implementation with solid programming expertise in C++, Python, Java.
 My Top Projects are - Live Project Link (add this only if you have some interesting project and not RGB game)
+```
