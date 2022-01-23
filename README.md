@@ -65,4 +65,4 @@ Tips to write just the right message -
 - Not too long to read, Not too short like the ones in the above section.\
 I am attaching a couple of examples to give you a better idea -
 
-Hi, I am Manvi Tyagi. 
+Hi, I am Manvi Tyagi. I am looking for full-time job opportunities as an SDE-1 for the year 2023.
