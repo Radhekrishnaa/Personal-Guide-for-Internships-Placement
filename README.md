@@ -73,3 +73,5 @@ My Top Projects are - Live Project Link (add this only if you have some interest
 ```
 I am very much interested in the position of SDE-1 at XYZ(Job Id and Job Link) and I believe that I would be a great fit for the role.\
 Can you please refer me for the corresponding role? I am attaching my latest resume along with the text, please review it, sir.
+[Name and Email-Id]
+[Resume Attached]
