@@ -34,7 +34,7 @@ Now there are 2 things added in the scenario -
 2. **Referrals -** The people working at the company currently can refer their connections whom they believe would be a great fit for the role. The referred applications are treated as priority applications and those applications are most probably reviewed.\
 Both the above things increase your chances of getting shortlisted for the next rounds.\
 
-***Tip -*** If you are looking for internships/jobs in startups, head on to [Angel.co](https://angel.co/)\
+***Tip -*** If you are looking for internships/jobs in startups, head on to [Angel.co](https://angel.co/)
 
 ## 2.Where to ask for Referrals?
 1. Linkedin
@@ -85,4 +85,4 @@ My skills are a mixture of:
 - Data Structures & Algorithms (xyz+ problems solved/Coding Profile Link/Rating of any coding platform)
 - Web Application Development (With internship experience xyz company,if done//you can also mention tech-stack here if no internships done)
 - Teamwork/Leadership(here give a example of any club or organization you are joined).\
-My Github Profile - [Link here](https://github.com/Radhekrishnaa)
+My Github Profile - [Link here]
