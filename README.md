@@ -94,4 +94,5 @@ Would you be willing to refer me for the corresponding role?
 [Resume Attached].
 ```
 ***Pro-tip:*** Don't copy the above ones, Originality has it's own charm :p.\
-**ULTRA PRO TIP -** Don't just send Hi, Hello, How are you on Linkedin and wait for the other person to reply. Write Why are you texting them to the point in one message.\If you just want to initiate a conversation- Introduce yourself and share about your interests and ongoing work/project/whatever.
+**ULTRA PRO TIP -** Don't just send Hi, Hello, How are you on Linkedin and wait for the other person to reply. Write Why are you texting them to the point in one message.\
+If you just want to initiate a conversation- Introduce yourself and share about your interests and ongoing work/project/whatever.
