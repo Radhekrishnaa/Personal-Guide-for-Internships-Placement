@@ -97,5 +97,5 @@ Would you be willing to refer me for the corresponding role?
 **ULTRA PRO TIP -** Don't just send Hi, Hello, How are you on Linkedin and wait for the other person to reply. Write Why are you texting them to the point in one message.\
 If you just want to initiate a conversation- Introduce yourself and share about your interests and ongoing work/project/whatever.
 
-***How many people should you message?***
+***How many people should you message?***\
 As per my experience and people I talked to, 15-30 is a safe number. Fingers crossed then!
