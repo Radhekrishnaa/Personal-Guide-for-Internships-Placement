@@ -85,13 +85,13 @@ My skills are a mixture of:
 - Data Structures & Algorithms (xyz+ problems solved/Coding Profile Link/Rating of any coding platform)
 - Web Application Development (With internship experience xyz company,if done//you can also mention tech-stack here if no internships done)
 - Teamwork/Leadership(here give a example of any club or organization you are joined).
-My Github Profile - [Link here].\
+My Github Profile - [Link here].
 I am very much interested in the position of Software Engineer at COMPANYNAME. 
 Job Link: https://something/something
-Job ID: 84xxx(just a random example).\
+Job ID: 84xxx(just a random example).
 Would you be willing to refer me for the corresponding role?
 [Name and Email-Id]
-[Resume Attached].\
+[Resume Attached].
 ```
 ***Pro-tip:*** Don't copy the above ones, Originality has it's own charm :p.\
 **ULTRA PRO TIP -**
