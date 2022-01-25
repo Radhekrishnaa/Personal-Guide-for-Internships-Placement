@@ -67,7 +67,7 @@ I am attaching a couple of examples to give you a better idea -
 
 ```
 Hi, I am Radhekrishna Mishra. 
-I am looking for full-time job opportunities as an SDE-1 for the year 2023.\
+I am looking for full-time job opportunities as an SDE-1 for the year 2023.
 I have hands-on experience in development and implementation with solid programming expertise in C++, Python, Java.
 My Top Projects are - Live Project Link (add this only if you have some interesting project and not RGB game)
 ```
