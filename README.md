@@ -93,4 +93,5 @@ Would you be willing to refer me for the corresponding role?
 [Name and Email-Id]
 [Resume Attached].\
 ```
-***Pro-tip:*** Don't copy the above ones, Originality has it's own charm :p
+***Pro-tip:*** Don't copy the above ones, Originality has it's own charm :p.\
+**ULTRA PRO TIP -**
