@@ -80,11 +80,11 @@ Can you please refer me for the corresponding role? I am attaching my latest res
 ```
 Hello ---- Sir!
 Thank You for taking the time to connect with me. 
-I am a second year(at that time when i wrote this) Computer Science student graduating in 2024.\
+I am a second year(at that time when i wrote this) Computer Science student graduating in 2024.
 My skills are a mixture of:
 - Data Structures & Algorithms (xyz+ problems solved/Coding Profile Link/Rating of any coding platform)
 - Web Application Development (With internship experience xyz company,if done//you can also mention tech-stack here if no internships done)
-- Teamwork/Leadership(here give a example of any club or organization you are joined).\
+- Teamwork/Leadership(here give a example of any club or organization you are joined).
 My Github Profile - [Link here].\
 I am very much interested in the position of Software Engineer at COMPANYNAME. 
 Job Link: https://something/something
