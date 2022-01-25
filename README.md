@@ -98,4 +98,5 @@ Would you be willing to refer me for the corresponding role?
 If you just want to initiate a conversation- Introduce yourself and share about your interests and ongoing work/project/whatever.
 
 ***How many people should you message?***\
-As per my experience and people I talked to, 15-30 is a safe number. Fingers crossed then!As per my experience, 15-30 is a safe number. Fingers crossed then!(IMPORTANT part).
+As per my experience and people I talked to, 15-30 is a safe number. Fingers crossed then!As per my experience, 15-30 is a safe number. Fingers crossed then!(IMPORTANT part).\
+Tips for LinkedIn Profile
