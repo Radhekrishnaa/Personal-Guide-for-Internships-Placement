@@ -100,5 +100,5 @@ If you just want to initiate a conversation- Introduce yourself and share about 
 ***How many people should you message?***\
 As per my experience and people I talked to, 15-30 is a safe number. Fingers crossed then!As per my experience, 15-30 is a safe number. Fingers crossed then!(IMPORTANT part).\
 ## Tips for LinkedIn Profile
-A headline describing your current role
+- A headline describing your current role
 
