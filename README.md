@@ -115,4 +115,5 @@ Here is an amazing [video](https://www.youtube.com/watch?v=BYUy1yvjHxE) and a gl
 Some useful resources -
 - You can make decent resumes from these sites: [Resumepuppy](https://resumepuppy.com/), [overleaf](https://www.overleaf.com/)
 - Check your Resume Score here - [Resumeworded](https://resumeworded.com/), ~80 is a good score.
+- NOTE- Don't write something fake or exaggerated in your resume
 
