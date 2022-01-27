@@ -105,5 +105,5 @@ As per my experience and people I talked to, 15-30 is a safe number. Fingers cro
 - A Quick Summary of Who you are, What you are working on, What you like, What skills you have etc.
 - Use the Featured Option to have your updated Resume easily accessible on Linkedin
 - Explanatory Work Experience Section instead of just Titles
-- Add your projects and Accomplishments too - 
+- Add your projects and Accomplishments too - Add descriptions here too (Click on Add Section and you will find all these)
 
