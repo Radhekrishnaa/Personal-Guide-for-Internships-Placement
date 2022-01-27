@@ -111,6 +111,6 @@ As per my experience and people I talked to, 15-30 is a safe number. Fingers cro
 - Attaching a more detailed [blog](https://www.theb2bhouse.com/linkedin-profile/) with examples if the above didn't feel enough.
 ## Tips for Resume
 Well, I want to save myself some writing and explaining.
-Here is an amazing video and a glance article which covers it all.
+Here is an amazing video(https://www.youtube.com/watch?v=BYUy1yvjHxE) and a glance article which covers it all.
 Some useful resources -
 
