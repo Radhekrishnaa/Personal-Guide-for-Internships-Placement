@@ -109,4 +109,5 @@ As per my experience and people I talked to, 15-30 is a safe number. Fingers cro
 - Good if you have Recommendations/Endorsements from people you have worked with. Having this part empty is better than having Fake Recommendations/Endorsements
 - ***Extra Important Tip -*** Keep sharing your projects, your achievements in hackathons or coding contests on your Linkedin/Twitter. This has more power than you know.
 - Attaching a more detailed [blog](https://www.theb2bhouse.com/linkedin-profile/) with examples if the above didn't feel enough.
+## Tips for Resume
 
