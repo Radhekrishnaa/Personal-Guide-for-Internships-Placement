@@ -106,4 +106,5 @@ As per my experience and people I talked to, 15-30 is a safe number. Fingers cro
 - Use the Featured Option to have your updated Resume easily accessible on Linkedin
 - Explanatory Work Experience Section instead of just Titles
 - Add your projects and Accomplishments too - Add descriptions here too (Click on Add Section and you will find all these)
+- Good if you have Recommendations/Endorsements from people you have worked with. Having this part empty is better than having Fake Recommendations/Endorsements
 
