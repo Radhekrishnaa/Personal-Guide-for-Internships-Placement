@@ -102,4 +102,5 @@ As per my experience and people I talked to, 15-30 is a safe number. Fingers cro
 ## Tips for LinkedIn Profile
 - A headline describing your current role
 - A formal profile picture (No profile picture I think reduces credibility - Fake accounts exist right)
+- A Quick Summary of Who you are, What you are working on, What you like, What skills you have etc.
 
