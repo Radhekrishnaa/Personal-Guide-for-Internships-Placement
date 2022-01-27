@@ -113,5 +113,5 @@ As per my experience and people I talked to, 15-30 is a safe number. Fingers cro
 Well, I want to save myself some writing and explaining.
 Here is an amazing [video](https://www.youtube.com/watch?v=BYUy1yvjHxE) and a glance [article](https://cdn.cms-twdigitalassets.com/content/dam/careers-twitter/university/2021_Resume_101.pdf) which covers it all.
 Some useful resources -
-- You can make decent resumes from these sites: Resumepuppy(https://resumepuppy.com/), overleaf
+- You can make decent resumes from these sites: Resumepuppy(https://resumepuppy.com/), overleaf(https://www.overleaf.com/)
 
