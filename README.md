@@ -108,5 +108,5 @@ As per my experience and people I talked to, 15-30 is a safe number. Fingers cro
 - Add your projects and Accomplishments too - Add descriptions here too (Click on Add Section and you will find all these)
 - Good if you have Recommendations/Endorsements from people you have worked with. Having this part empty is better than having Fake Recommendations/Endorsements
 - **Extra Important Tip -** Keep sharing your projects, your achievements in hackathons or coding contests on your Linkedin/Twitter. This has more power than you know.
-- (https://www.theb2bhouse.com/linkedin-profile/)
+- Attaching a more detailed blog with examples if the above didn't feel enough.(https://www.theb2bhouse.com/linkedin-profile/)
 
