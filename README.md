@@ -122,5 +122,6 @@ The show is not over yet. There are so many answered questions and a few tricks 
 1. Keep your Linkedin Profile, Resume and Github Profile updated.
 2. I prepared a list of ~50 companies where I wanted to apply [Find this list here.](https://github.com/Radhekrishnaa/List-of-Companies)
 - Visit their careers site and turned on the notifications for "Software Engineer Role". Whenever there would be an opening, You would get an email from them directly.
+- You should follow all these companies on Linkedin.
 
 
