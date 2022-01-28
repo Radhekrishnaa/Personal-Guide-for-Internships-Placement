@@ -119,7 +119,7 @@ Some useful resources -
 
 ## The Final Strategy - What should be done...?
 The show is not over yet. There are so many answered questions and a few tricks to be revealed. Keep reading!\
-Keep your Linkedin Profile, Resume and Github Profile updated.
-I prepared a list of ~50 companies where I wanted to apply (Find this list here.
+- Keep your Linkedin Profile, Resume and Github Profile updated.
+- I prepared a list of ~50 companies where I wanted to apply (Find this list here.
 
 
