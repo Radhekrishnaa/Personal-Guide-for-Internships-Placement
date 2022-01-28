@@ -117,3 +117,5 @@ Some useful resources -
 - Check your Resume Score here - [Resumeworded](https://resumeworded.com/), ~80 is a good score.
 - NOTE- Don't write something fake or exaggerated in your resume
 
+The Final Strategy - What did I do?
+
