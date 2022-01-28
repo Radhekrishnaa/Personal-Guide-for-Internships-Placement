@@ -118,4 +118,5 @@ Some useful resources -
 - NOTE- Don't write something fake or exaggerated in your resume
 
 ## The Final Strategy - What should be done...?
+The show is not over yet. There are so many answered questions and a few tricks to be revealed. Keep reading!
 
