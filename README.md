@@ -127,4 +127,4 @@ The show is not over yet. There are so many answered questions and a few tricks 
    - A large number of folks send requests at this time. The "potential referrer" may just miss your request and even if she/he accepts, they may not get to read your      message.
    - The company removes the job posting before you get a referral. This has happened to many folks.
 
-A better approach would be to
+A better approach would be to "Build Connections rather than just Finding referrals".
