@@ -124,5 +124,5 @@ The show is not over yet. There are so many answered questions and a few tricks 
 - Visit their careers site and turned on the notifications for "Software Engineer Role". Whenever there would be an opening, You would get an email from them directly.
 - You should follow all these companies on Linkedin.
 - Now this is what u have to do different from the majority of the folks - Most people would send a connection request to employees of XYZ company when XYZ company has an opening and they need a referral for it. Now there are several possibilities of you not getting a referral easily by doing this:
-- - A large number of folks send requests at this time. The "potential referrer" may just miss your request and even if she/he accepts, they may not get to read your message.
-
+   - A large number of folks send requests at this time. The "potential referrer" may just miss your request and even if she/he accepts, they may not get to read your message.
+   -The company removes the job posting before you get a referral. This has happened to me a few times :)
