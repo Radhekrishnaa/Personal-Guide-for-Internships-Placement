@@ -128,4 +128,4 @@ The show is not over yet. There are so many answered questions and a few tricks 
    - The company removes the job posting before you get a referral. This has happened to many folks.
 
 A better approach would be to **"Build Connections rather than just Finding referrals".**\
-You should make several connections at all these companies mentioned in my [list.](https://github.com/Radhekrishnaa/List-of-Companies)
+You should make several connections at all these companies mentioned in my [list.](https://github.com/Radhekrishnaa/List-of-Companies) You should make these connections, not on the day you want a referral for some role but a lot more in advance.
