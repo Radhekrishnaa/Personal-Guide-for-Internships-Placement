@@ -128,3 +128,4 @@ The show is not over yet. There are so many answered questions and a few tricks 
    - The company removes the job posting before you get a referral. This has happened to many folks.
 
 A better approach would be to **"Build Connections rather than just Finding referrals".**
+You should make several connections at all these companies mentioned in my list.
