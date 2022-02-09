@@ -32,7 +32,7 @@ But Wait, Do you think that the Recruiters would be going through thousands and 
 Now there are 2 things added in the scenario -
 1. **ATS(Applicant Tracking Software) Filtering -** This is used to automatically filter Resumes. Heard the term ATS-friendly Resumes?
 2. **Referrals -** The people working at the company currently can refer their connections whom they believe would be a great fit for the role. The referred applications are treated as priority applications and those applications are most probably reviewed.\
-Both the above things increase your chances of getting shortlisted for the next rounds.\
+Both the above things increase your chances of getting shortlisted for the next rounds.
 
 ***Tip -*** If you are looking for internships/jobs in startups, head on to [Angel.co](https://angel.co/)
 
@@ -130,6 +130,6 @@ The show is not over yet. There are so many answered questions and a few tricks 
 A better approach would be to **"Build Connections rather than just Finding referrals".**\
 You should make several connections at all these companies mentioned in my [list.](https://github.com/Radhekrishnaa/List-of-Companies) You should make these connections, not on the day you want a referral for some role but a lot more in advance.For a few weeks, you should make it a part of your routine to open Linkedin along with the List of companies and send connection requests(with a short note) to ~30 people (a mix of Software Developers and Recruiters).
 
-  ***How will it help you?***\
+  ***How will it help you?***
 - I got to talk to some very kind and supportive people who reviewed my resume, projects and gave me some useful tips for my career.
 ## Conclusion
