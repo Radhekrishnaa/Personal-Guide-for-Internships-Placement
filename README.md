@@ -134,4 +134,5 @@ You should make several connections at all these companies mentioned in my [list
 - I got to talk to some very kind and supportive people who reviewed my resume, projects and gave me some useful tips for my career.
 - Whenever an opening would come for XYZ company, you would most probably already have the connections to ask for a referral instead of sending them connection requests, waiting for it to be accepted, and then asking for a referral.
 - Many employees and Recruiters post on their LinkedIn profile about the openings in their company, and as you were already connected to so many people at all these companies, your Linkedin Feed would pop-up these for you.
+- 
 ## Conclusion
