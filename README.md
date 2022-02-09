@@ -98,7 +98,7 @@ Would you be willing to refer me for the corresponding role?
 If you just want to initiate a conversation- Introduce yourself and share about your interests and ongoing work/project/whatever.
 
 ***How many people should you message?***\
-As per my experience and people I talked to, 15-30 is a safe number. Fingers crossed then!As per my experience, 15-30 is a safe number. Fingers crossed then!(IMPORTANT part).\
+As per my experience and people I talked to, 15-30 is a safe number. Fingers crossed then!As per my experience, 15-30 is a safe number. Fingers crossed then!(IMPORTANT part).
 ## Tips for LinkedIn Profile
 - A headline describing your current role
 - A formal profile picture (No profile picture I think reduces credibility - Fake accounts exist right)
@@ -130,6 +130,6 @@ The show is not over yet. There are so many answered questions and a few tricks 
 A better approach would be to **"Build Connections rather than just Finding referrals".**\
 You should make several connections at all these companies mentioned in my [list.](https://github.com/Radhekrishnaa/List-of-Companies) You should make these connections, not on the day you want a referral for some role but a lot more in advance.For a few weeks, you should make it a part of your routine to open Linkedin along with the List of companies and send connection requests(with a short note) to ~30 people (a mix of Software Developers and Recruiters).
 
- ***How will it help you?***\
+  ***How will it help you?***\
 - I got to talk to some very kind and supportive people who reviewed my resume, projects and gave me some useful tips for my career.
 ## Conclusion
