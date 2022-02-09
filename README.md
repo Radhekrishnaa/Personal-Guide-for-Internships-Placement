@@ -131,4 +131,5 @@ A better approach would be to **"Build Connections rather than just Finding refe
 You should make several connections at all these companies mentioned in my [list.](https://github.com/Radhekrishnaa/List-of-Companies) You should make these connections, not on the day you want a referral for some role but a lot more in advance.For a few weeks, you should make it a part of your routine to open Linkedin along with the List of companies and send connection requests(with a short note) to ~30 people (a mix of Software Developers and Recruiters).
 
 How will it help you?
+I got to talk to some very kind and supportive people who reviewed my resume, projects and gave me some useful tips for my career.
 ## Conclusion
