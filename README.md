@@ -136,4 +136,5 @@ You should make several connections at all these companies mentioned in my [list
 - Many employees and Recruiters post on their LinkedIn profile about the openings in their company, and as you were already connected to so many people at all these companies, your Linkedin Feed would pop-up these for you.
 - 
 ## Conclusion:
+So, Keep the Josh high, Keep coding, and Keep applying to your dream companies!!
 
