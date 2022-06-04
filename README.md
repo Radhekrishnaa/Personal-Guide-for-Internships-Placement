@@ -136,3 +136,9 @@ You should make several connections at all these companies mentioned in my [list
 - Many employees and Recruiters post on their LinkedIn profile about the openings in their company, and as you were already connected to so many people at all these companies, your Linkedin Feed would pop-up these for you.
 - 
 ## Conclusion:
+Other comprehensive CI (and CP) prep guides: (Comment if you know any good material)
+CP and CI Study materials by Jasmine Chen(Google SWE). This whole write up would be incomplete without this link.
+Ultimate Guide to Interview Preparation by a Competitive Programmer (Gold Mine!)
+Tech Interview Guide (This one is just gold!)
+Great guideline on acing interviews and what to study?
+DSA for CP guys(CI guys should also try if you have time)
